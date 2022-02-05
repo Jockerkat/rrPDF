@@ -1,7 +1,10 @@
 [package]
-name = "rrPDF"
+name = "rr_pdf"
 version = "0.1.0"
+authors = ["Alexander Rolley"]
 edition = "2021"
+description = "Read PDF's in rust."
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
